@@ -1,4 +1,4 @@
-![Toplogy](Cisco-ASA-Basic-Configuration/Image/Topology.png)
+![Toplogy](Image/Topology.png)
 ## 🔥 Cisco ASA Firepower Lab – README
 ## 📌 Overview
 
