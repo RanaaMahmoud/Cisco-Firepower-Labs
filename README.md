@@ -1,4 +1,4 @@
-!(Firepower)[]
+!(Firepower)[Image/857a61f-Cisco_Secure_Firewall_Banner.png]
 # Cisco Firepower Security Labs
 
 ## 📌 Overview
