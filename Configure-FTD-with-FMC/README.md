@@ -1,7 +1,6 @@
-![FTD with FMC](Configure-FTD-with-FMC/Image/Configure-FTD-with-FMC.png)
-
-📘 FTD with FMC (Centralized Management)
-📌 Overview
+![FTDwithFMC](Configure-FTD-with-FMC/Image/Configure-FTD-with-FMC.png)
+## 📘 FTD with FMC (Centralized Management)
+## 📌 Overview
 
 This project demonstrates the deployment and configuration of Cisco Firepower Threat Defense (FTD) managed centrally using Firepower Management Center (FMC).
 
@@ -11,7 +10,9 @@ Separate Management, Inside, and Outside networks
 Centralized policy control using FMC
 Traffic inspection and access control enforcement
 
-🧩 Network Design
+---
+
+## 🧩 Network Design
 The environment consists of three main segments:
 
 Management Network (172.16.1.0/24)
@@ -24,7 +25,10 @@ Connected via switch to FTD
 Outside Network (DHCP)
 Simulates internet access
 
-⚙️ Key Configurations
+---
+
+
+## ⚙️ Key Configurations
 🔹 FTD Initial Setup
 Interface configuration:
 G0/0 → Outside (DHCP)
@@ -50,12 +54,20 @@ Configured dynamic NAT (PAT) for inside network
 Enabled internet access for internal hosts
 
 
-🧪 Testing & Verification
+---
+
+
+## 🧪 Testing & Verification
 Internal hosts successfully accessed the internet
 Traffic matched configured policies
 FMC showed real-time logs and events
 
-🛠️ Skills Demonstrated
+
+
+---
+
+
+## 🛠️ Skills Demonstrated
 Firewall deployment and configuration
 Centralized security management (FMC)
 Access Control Policy design
