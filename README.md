@@ -1,4 +1,4 @@
-!(Firepower)[Image/857a61f-Cisco_Secure_Firewall_Banner.png]
+![Firepower](Image/857a61f-Cisco_Secure_Firewall_Banner.png)
 # Cisco Firepower Security Labs
 
 ## 📌 Overview
@@ -14,8 +14,3 @@ Hands-on firewall configuration using Cisco ASA and Firepower Threat Defense (FT
 - NAT implementation
 - Access control policies
 - Traffic filtering
-
-## 🔹 Project Links
-- ASA: ./asa-basic-config
-- FTD (FMC): ./ftd-fmc
-- FTD (FDM): ./ftd-fdm
