@@ -34,22 +34,23 @@ Apply security inspection policies
 
 
 ## ⚙️ Configuration Steps
+---
 1. Interface Configuration
 interface GigabitEthernet0/1
  nameif inside
  security-level 100
  ip address 10.10.10.1 255.255.255.0
-
+---
 interface GigabitEthernet0/2
  nameif outside
  security-level 0
  ip address 192.168.22.13 255.255.255.0
-
+---
 interface Management0/0
  nameif management
  security-level 100
  ip address 172.16.1.1 255.255.255.0
-
+---
  
 2. Default Route
 route outside 0.0.0.0 0.0.0.0 192.168.22.1
