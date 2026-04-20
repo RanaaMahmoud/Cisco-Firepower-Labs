@@ -1,4 +1,4 @@
-![FTDwithFMC](Configure-FTD-with-FMC/Image/Configure-FTD-with-FMC.png)
+![FTDwithFMC](Image/Configure-FTD-with-FMC.png)
 ## 📘 FTD with FMC (Centralized Management)
 ## 📌 Overview
 
